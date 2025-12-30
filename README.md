@@ -40,7 +40,7 @@ The platform allows users to browse, create, and manage accommodation listings w
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd AirbnbProject
+cd ViahausProject
 ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ The server will start on `http://localhost:8080`
 ## Project Structure
 
 ```
-AirbnbProject/
+ViahausProject/
 ├── app.js                 # Main application entry point
 ├── cloudConfig.js         # Cloudinary configuration
 ├── Schema.js              # Joi validation schemas
