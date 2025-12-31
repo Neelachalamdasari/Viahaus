@@ -1,4 +1,4 @@
-#VIAHAUS
+##VIAHAUS
 
 ViaHaus is a full-stack accommodation listing web application built using Node.js, Express.js, MongoDB, and EJS.
 
@@ -64,7 +64,7 @@ NODE_ENV=development
 node app.js
 ```
 
-The server will start on `http://localhost:8080`
+The server will start on `http://localhost:8080/listings`
 
 ## Project Structure
 
