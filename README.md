@@ -1,6 +1,6 @@
-##VIAHAUS
+##StayCasa
 
-ViaHaus is a full-stack accommodation listing web application built using Node.js, Express.js, MongoDB, and EJS.
+StayCasa is a full-stack accommodation listing web application built using Node.js, Express.js, MongoDB, and EJS.
 
 The platform allows users to browse, create, and manage accommodation listings with images and location details.
 
@@ -40,7 +40,7 @@ The platform allows users to browse, create, and manage accommodation listings w
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd ViahausProject
+cd StayCasaProject
 ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ The server will start on `http://localhost:8080/listings`
 ## Project Structure
 
 ```
-ViahausProject/
+StayCasaProject/
 ├── app.js                 # Main application entry point
 ├── cloudConfig.js         # Cloudinary configuration
 ├── Schema.js              # Joi validation schemas
